@@ -1,2 +1,2 @@
 new branch
-git updated
+git updated successfully
